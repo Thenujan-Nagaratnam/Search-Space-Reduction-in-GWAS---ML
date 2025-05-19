@@ -1,0 +1,26 @@
+PLINK v1.9.0-b.7.7 64-bit (22 Oct 2024)
+Options in effect:
+  --bfile public\Genomics\108Malay_2527458snps
+  --keep qc_data\malay_pheno_samples.txt
+  --make-bed
+  --out qc_data\malay_s0_raw
+
+Hostname: DESKTOP-AK0KDDK
+Working directory: C:\Users\thenu\Desktop\Git\Search-Space-Reduction-in-GWAS---ML
+Start time: Mon May 19 21:23:41 2025
+
+Random number seed: 1747670021
+16110 MB RAM detected; reserving 8055 MB for main workspace.
+2527458 variants loaded from .bim file.
+108 people (38 males, 70 females) loaded from .fam.
+--keep: 106 people remaining.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 106 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate in remaining samples is 0.99913.
+2527458 variants and 106 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to qc_data\malay_s0_raw.bed + qc_data\malay_s0_raw.bim +
+qc_data\malay_s0_raw.fam ... done.
+
+End time: Mon May 19 21:23:43 2025

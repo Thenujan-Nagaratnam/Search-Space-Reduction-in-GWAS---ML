@@ -1,0 +1,25 @@
+PLINK v1.9.0-b.7.7 64-bit (22 Oct 2024)
+Options in effect:
+  --bfile pca_data\merged_for_pca_ldpruned_final
+  --out pca_data\merged_pca
+  --pca 10 header
+
+Hostname: DESKTOP-AK0KDDK
+Working directory: C:\Users\thenu\Desktop\Git\Search-Space-Reduction-in-GWAS---ML
+Start time: Mon May 19 21:24:16 2025
+
+Random number seed: 1747670056
+16110 MB RAM detected; reserving 8055 MB for main workspace.
+188075 variants loaded from .bim file.
+319 people (118 males, 201 females) loaded from .fam.
+Using up to 8 threads (change this with --threads).
+Before main variant filters, 319 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.829445.
+188075 variants and 319 people pass filters and QC.
+Note: No phenotypes present.
+Relationship matrix calculation complete.
+--pca: Results saved to pca_data\merged_pca.eigenval and
+pca_data\merged_pca.eigenvec .
+
+End time: Mon May 19 21:24:17 2025

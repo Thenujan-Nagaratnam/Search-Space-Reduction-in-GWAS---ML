@@ -1,0 +1,49 @@
+PLINK v1.9.0-b.7.7 64-bit (22 Oct 2024)
+Options in effect:
+  --bfile qc_data\malay_s2_mind
+  --indep-pairwise 50kb 5 0.2
+  --out qc_data\malay_s3_ldprune
+
+Hostname: DESKTOP-AK0KDDK
+Working directory: C:\Users\thenu\Desktop\Git\Search-Space-Reduction-in-GWAS---ML
+Start time: Mon May 19 21:23:47 2025
+
+Warning: --indep-pairwise step size should be 1 when window size is in kb
+units.
+Random number seed: 1747670027
+16110 MB RAM detected; reserving 8055 MB for main workspace.
+1141308 variants loaded from .bim file.
+106 people (37 males, 69 females) loaded from .fam.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 106 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.998916.
+1141308 variants and 106 people pass filters and QC.
+Note: No phenotypes present.
+Pruned 76201 variants from chromosome 1, leaving 12648.
+Pruned 79809 variants from chromosome 2, leaving 12104.
+Pruned 69112 variants from chromosome 3, leaving 10933.
+Pruned 64530 variants from chromosome 4, leaving 10009.
+Pruned 60495 variants from chromosome 5, leaving 9627.
+Pruned 66568 variants from chromosome 6, leaving 9312.
+Pruned 54829 variants from chromosome 7, leaving 8599.
+Pruned 53593 variants from chromosome 8, leaving 7725.
+Pruned 45544 variants from chromosome 9, leaving 6838.
+Pruned 51377 variants from chromosome 10, leaving 7764.
+Pruned 48754 variants from chromosome 11, leaving 7391.
+Pruned 47434 variants from chromosome 12, leaving 7842.
+Pruned 35534 variants from chromosome 13, leaving 5680.
+Pruned 32681 variants from chromosome 14, leaving 5176.
+Pruned 31330 variants from chromosome 15, leaving 5075.
+Pruned 33894 variants from chromosome 16, leaving 5309.
+Pruned 28181 variants from chromosome 17, leaving 5214.
+Pruned 30236 variants from chromosome 18, leaving 4949.
+Pruned 20825 variants from chromosome 19, leaving 3985.
+Pruned 24565 variants from chromosome 20, leaving 4124.
+Pruned 14955 variants from chromosome 21, leaving 2291.
+Pruned 15768 variants from chromosome 22, leaving 2498.
+Pruning complete.  986215 of 1141308 variants removed.
+Marker lists written to qc_data\malay_s3_ldprune.prune.in and
+qc_data\malay_s3_ldprune.prune.out .
+
+End time: Mon May 19 21:23:50 2025

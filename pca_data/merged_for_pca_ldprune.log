@@ -1,0 +1,49 @@
+PLINK v1.9.0-b.7.7 64-bit (22 Oct 2024)
+Options in effect:
+  --bfile pca_data\merged_for_pca_unpruned
+  --indep-pairwise 50kb 5 0.2
+  --out pca_data\merged_for_pca_ldprune
+
+Hostname: DESKTOP-AK0KDDK
+Working directory: C:\Users\thenu\Desktop\Git\Search-Space-Reduction-in-GWAS---ML
+Start time: Mon May 19 21:24:10 2025
+
+Warning: --indep-pairwise step size should be 1 when window size is in kb
+units.
+Random number seed: 1747670050
+16110 MB RAM detected; reserving 8055 MB for main workspace.
+1328561 variants loaded from .bim file.
+319 people (118 males, 201 females) loaded from .fam.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 319 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.872914.
+1328561 variants and 319 people pass filters and QC.
+Note: No phenotypes present.
+Pruned 88104 variants from chromosome 1, leaving 15181.
+Pruned 93494 variants from chromosome 2, leaving 14907.
+Pruned 79969 variants from chromosome 3, leaving 13360.
+Pruned 74648 variants from chromosome 4, leaving 12056.
+Pruned 70183 variants from chromosome 5, leaving 11706.
+Pruned 78047 variants from chromosome 6, leaving 11253.
+Pruned 63207 variants from chromosome 7, leaving 10473.
+Pruned 61879 variants from chromosome 8, leaving 9488.
+Pruned 52454 variants from chromosome 9, leaving 8318.
+Pruned 59361 variants from chromosome 10, leaving 9440.
+Pruned 56007 variants from chromosome 11, leaving 8954.
+Pruned 55054 variants from chromosome 12, leaving 9354.
+Pruned 41337 variants from chromosome 13, leaving 6948.
+Pruned 37870 variants from chromosome 14, leaving 6321.
+Pruned 36245 variants from chromosome 15, leaving 6014.
+Pruned 38718 variants from chromosome 16, leaving 6382.
+Pruned 32128 variants from chromosome 17, leaving 6279.
+Pruned 34926 variants from chromosome 18, leaving 6143.
+Pruned 23845 variants from chromosome 19, leaving 4811.
+Pruned 28229 variants from chromosome 20, leaving 4960.
+Pruned 16717 variants from chromosome 21, leaving 2751.
+Pruned 18064 variants from chromosome 22, leaving 2976.
+Pruning complete.  1140486 of 1328561 variants removed.
+Marker lists written to pca_data\merged_for_pca_ldprune.prune.in and
+pca_data\merged_for_pca_ldprune.prune.out .
+
+End time: Mon May 19 21:24:14 2025

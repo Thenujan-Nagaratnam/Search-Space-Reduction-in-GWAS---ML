@@ -1,0 +1,30 @@
+PLINK v1.9.0-b.7.7 64-bit (22 Oct 2024)
+Options in effect:
+  --bfile qc_data\chinese_s2_mind
+  --make-bed
+  --merge-list pca_data\merge_list.txt
+  --out pca_data\merged_for_pca_unpruned
+
+Hostname: DESKTOP-AK0KDDK
+Working directory: C:\Users\thenu\Desktop\Git\Search-Space-Reduction-in-GWAS---ML
+Start time: Mon May 19 21:24:01 2025
+
+Random number seed: 1747670041
+16110 MB RAM detected; reserving 8055 MB for main workspace.
+Performing single-pass merge (319 people, 1328561 variants).
+Merged fileset written to pca_data\merged_for_pca_unpruned-merge.bed +
+pca_data\merged_for_pca_unpruned-merge.bim +
+pca_data\merged_for_pca_unpruned-merge.fam .
+1328561 variants loaded from .bim file.
+319 people (118 males, 201 females) loaded from .fam.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 319 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.872914.
+1328561 variants and 319 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to pca_data\merged_for_pca_unpruned.bed +
+pca_data\merged_for_pca_unpruned.bim + pca_data\merged_for_pca_unpruned.fam ...
+done.
+
+End time: Mon May 19 21:24:10 2025

@@ -1,0 +1,49 @@
+PLINK v1.9.0-b.7.7 64-bit (22 Oct 2024)
+Options in effect:
+  --bfile qc_data\chinese_s2_mind
+  --indep-pairwise 50kb 5 0.2
+  --out qc_data\chinese_s3_ldprune
+
+Hostname: DESKTOP-AK0KDDK
+Working directory: C:\Users\thenu\Desktop\Git\Search-Space-Reduction-in-GWAS---ML
+Start time: Mon May 19 21:23:37 2025
+
+Warning: --indep-pairwise step size should be 1 when window size is in kb
+units.
+Random number seed: 1747670017
+16110 MB RAM detected; reserving 8055 MB for main workspace.
+1118159 variants loaded from .bim file.
+110 people (44 males, 66 females) loaded from .fam.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 110 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.998687.
+1118159 variants and 110 people pass filters and QC.
+Note: No phenotypes present.
+Pruned 74360 variants from chromosome 1, leaving 12215.
+Pruned 77987 variants from chromosome 2, leaving 11992.
+Pruned 67408 variants from chromosome 3, leaving 10664.
+Pruned 63272 variants from chromosome 4, leaving 9832.
+Pruned 59089 variants from chromosome 5, leaving 9430.
+Pruned 66185 variants from chromosome 6, leaving 9073.
+Pruned 53528 variants from chromosome 7, leaving 8446.
+Pruned 52554 variants from chromosome 8, leaving 7717.
+Pruned 44191 variants from chromosome 9, leaving 6727.
+Pruned 50108 variants from chromosome 10, leaving 7489.
+Pruned 47939 variants from chromosome 11, leaving 7346.
+Pruned 46451 variants from chromosome 12, leaving 7597.
+Pruned 35162 variants from chromosome 13, leaving 5466.
+Pruned 32251 variants from chromosome 14, leaving 5092.
+Pruned 31031 variants from chromosome 15, leaving 4899.
+Pruned 33251 variants from chromosome 16, leaving 5090.
+Pruned 27633 variants from chromosome 17, leaving 5091.
+Pruned 29766 variants from chromosome 18, leaving 4842.
+Pruned 20552 variants from chromosome 19, leaving 3796.
+Pruned 23888 variants from chromosome 20, leaving 3905.
+Pruned 14677 variants from chromosome 21, leaving 2191.
+Pruned 15594 variants from chromosome 22, leaving 2382.
+Pruning complete.  966877 of 1118159 variants removed.
+Marker lists written to qc_data\chinese_s3_ldprune.prune.in and
+qc_data\chinese_s3_ldprune.prune.out .
+
+End time: Mon May 19 21:23:40 2025

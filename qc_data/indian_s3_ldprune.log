@@ -1,0 +1,49 @@
+PLINK v1.9.0-b.7.7 64-bit (22 Oct 2024)
+Options in effect:
+  --bfile qc_data\indian_s2_mind
+  --indep-pairwise 50kb 5 0.2
+  --out qc_data\indian_s3_ldprune
+
+Hostname: DESKTOP-AK0KDDK
+Working directory: C:\Users\thenu\Desktop\Git\Search-Space-Reduction-in-GWAS---ML
+Start time: Mon May 19 21:23:57 2025
+
+Warning: --indep-pairwise step size should be 1 when window size is in kb
+units.
+Random number seed: 1747670037
+16110 MB RAM detected; reserving 8055 MB for main workspace.
+1227111 variants loaded from .bim file.
+103 people (37 males, 66 females) loaded from .fam.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 103 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.999006.
+1227111 variants and 103 people pass filters and QC.
+Note: No phenotypes present.
+Pruned 81107 variants from chromosome 1, leaving 14448.
+Pruned 85846 variants from chromosome 2, leaving 14174.
+Pruned 73530 variants from chromosome 3, leaving 12554.
+Pruned 68502 variants from chromosome 4, leaving 11405.
+Pruned 64731 variants from chromosome 5, leaving 11100.
+Pruned 71406 variants from chromosome 6, leaving 10615.
+Pruned 58214 variants from chromosome 7, leaving 9958.
+Pruned 57155 variants from chromosome 8, leaving 9085.
+Pruned 48268 variants from chromosome 9, leaving 7906.
+Pruned 54502 variants from chromosome 10, leaving 8955.
+Pruned 51208 variants from chromosome 11, leaving 8525.
+Pruned 50541 variants from chromosome 12, leaving 8891.
+Pruned 38265 variants from chromosome 13, leaving 6463.
+Pruned 34818 variants from chromosome 14, leaving 6052.
+Pruned 33117 variants from chromosome 15, leaving 5731.
+Pruned 35756 variants from chromosome 16, leaving 6025.
+Pruned 29486 variants from chromosome 17, leaving 5924.
+Pruned 32132 variants from chromosome 18, leaving 5733.
+Pruned 21984 variants from chromosome 19, leaving 4575.
+Pruned 26102 variants from chromosome 20, leaving 4686.
+Pruned 15538 variants from chromosome 21, leaving 2584.
+Pruned 16676 variants from chromosome 22, leaving 2838.
+Pruning complete.  1048884 of 1227111 variants removed.
+Marker lists written to qc_data\indian_s3_ldprune.prune.in and
+qc_data\indian_s3_ldprune.prune.out .
+
+End time: Mon May 19 21:24:00 2025

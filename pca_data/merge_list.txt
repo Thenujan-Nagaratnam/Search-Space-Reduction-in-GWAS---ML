@@ -1,0 +1,2 @@
+qc_data\malay_s2_mind
+qc_data\indian_s2_mind
