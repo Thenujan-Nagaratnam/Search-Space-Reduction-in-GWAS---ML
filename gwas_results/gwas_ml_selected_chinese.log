@@ -1,0 +1,30 @@
+PLINK v1.9.0-b.7.7 64-bit (22 Oct 2024)
+Options in effect:
+  --assoc qt-means
+  --bfile qc_data\chinese_s2_mind
+  --extract ml_results\chinese_selected_snps_rf.txt
+  --out gwas_results\gwas_ml_selected_chinese
+  --pheno prepared_data\chinese_pheno.txt
+  --pheno-name Cholesterol
+
+Hostname: DESKTOP-AK0KDDK
+Working directory: C:\Users\thenu\Desktop\Git\Search-Space-Reduction-in-GWAS---ML
+Start time: Mon May 19 21:50:57 2025
+
+Random number seed: 1747671657
+16110 MB RAM detected; reserving 8055 MB for main workspace.
+1118159 variants loaded from .bim file.
+110 people (44 males, 66 females) loaded from .fam.
+110 phenotype values present after --pheno.
+--extract: 499 variants remaining.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 110 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.998561.
+499 variants and 110 people pass filters and QC.
+Phenotype data is quantitative.
+Writing QT --assoc report to gwas_results\gwas_ml_selected_chinese.qassoc ...
+done.
+QT means report saved to gwas_results\gwas_ml_selected_chinese.qassoc.means .
+
+End time: Mon May 19 21:50:57 2025

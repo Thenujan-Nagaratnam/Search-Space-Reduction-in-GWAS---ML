@@ -7,9 +7,9 @@ Options in effect:
 
 Hostname: DESKTOP-AK0KDDK
 Working directory: C:\Users\thenu\Desktop\Git\Search-Space-Reduction-in-GWAS---ML
-Start time: Mon May 19 21:24:14 2025
+Start time: Mon May 19 21:42:13 2025
 
-Random number seed: 1747670054
+Random number seed: 1747671133
 16110 MB RAM detected; reserving 8055 MB for main workspace.
 1328561 variants loaded from .bim file.
 319 people (118 males, 201 females) loaded from .fam.
@@ -24,4 +24,4 @@ Note: No phenotypes present.
 pca_data\merged_for_pca_ldpruned_final.bim +
 pca_data\merged_for_pca_ldpruned_final.fam ... done.
 
-End time: Mon May 19 21:24:16 2025
+End time: Mon May 19 21:42:14 2025

@@ -6,11 +6,11 @@ Options in effect:
 
 Hostname: DESKTOP-AK0KDDK
 Working directory: C:\Users\thenu\Desktop\Git\Search-Space-Reduction-in-GWAS---ML
-Start time: Mon May 19 21:24:10 2025
+Start time: Mon May 19 21:42:08 2025
 
 Warning: --indep-pairwise step size should be 1 when window size is in kb
 units.
-Random number seed: 1747670050
+Random number seed: 1747671128
 16110 MB RAM detected; reserving 8055 MB for main workspace.
 1328561 variants loaded from .bim file.
 319 people (118 males, 201 females) loaded from .fam.
@@ -46,4 +46,4 @@ Pruning complete.  1140486 of 1328561 variants removed.
 Marker lists written to pca_data\merged_for_pca_ldprune.prune.in and
 pca_data\merged_for_pca_ldprune.prune.out .
 
-End time: Mon May 19 21:24:14 2025
+End time: Mon May 19 21:42:13 2025

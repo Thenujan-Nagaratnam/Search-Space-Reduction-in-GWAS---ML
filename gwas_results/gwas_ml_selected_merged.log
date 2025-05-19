@@ -1,0 +1,33 @@
+PLINK v1.9.0-b.7.7 64-bit (22 Oct 2024)
+Options in effect:
+  --assoc qt-means
+  --bfile qc_data\..\pca_data\merged_for_pca_unpruned
+  --covar prepared_data\covariates.txt
+  --covar-name PC1_x PC2_x PC3_x PC4_x PC5_x PC6_x PC7_x PC8_x PC9_x PC10_x PC1_y PC2_y PC3_y PC4_y PC5_y PC6_y PC7_y PC8_y PC9_y PC10_y
+  --extract ml_results\all_populations_selected_snps_rf_union.txt
+  --out gwas_results\gwas_ml_selected_merged
+  --pheno prepared_data\merged_pheno.txt
+  --pheno-name Cholesterol
+
+Hostname: DESKTOP-AK0KDDK
+Working directory: C:\Users\thenu\Desktop\Git\Search-Space-Reduction-in-GWAS---ML
+Start time: Mon May 19 21:50:55 2025
+
+Random number seed: 1747671655
+16110 MB RAM detected; reserving 8055 MB for main workspace.
+1328561 variants loaded from .bim file.
+319 people (118 males, 201 females) loaded from .fam.
+319 phenotype values present after --pheno.
+--extract: 1499 variants remaining.
+Using 1 thread (no multithreaded calculations invoked).
+Warning: Ignoring --covar since no commands reference the covariates.
+Before main variant filters, 319 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.953442.
+1499 variants and 319 people pass filters and QC.
+Phenotype data is quantitative.
+Writing QT --assoc report to gwas_results\gwas_ml_selected_merged.qassoc ...
+done.
+QT means report saved to gwas_results\gwas_ml_selected_merged.qassoc.means .
+
+End time: Mon May 19 21:50:56 2025

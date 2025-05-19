@@ -1,0 +1,26 @@
+PLINK v1.9.0-b.7.7 64-bit (22 Oct 2024)
+Options in effect:
+  --bfile qc_data\indian_s3_ldpruned_final
+  --out temp\temp_data
+  --pheno prepared_data\indian_pheno.txt
+  --pheno-name Cholesterol
+  --recode A
+
+Hostname: DESKTOP-AK0KDDK
+Working directory: C:\Users\thenu\Desktop\Git\Search-Space-Reduction-in-GWAS---ML
+Start time: Mon May 19 22:24:37 2025
+
+Random number seed: 1747673677
+16110 MB RAM detected; reserving 8055 MB for main workspace.
+178227 variants loaded from .bim file.
+103 people (37 males, 66 females) loaded from .fam.
+103 phenotype values present after --pheno.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 103 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.998897.
+178227 variants and 103 people pass filters and QC.
+Phenotype data is quantitative.
+--recode A to temp\temp_data.raw ... done.
+
+End time: Mon May 19 22:24:38 2025
